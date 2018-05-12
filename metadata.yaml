@@ -1,0 +1,42 @@
+_repo: Boys-and-Girls-of-Colonial-Days_41348
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shriver, Uldene
+    gutenberg_agent_id: '41126'
+    url: http://www.gutenberg.org/2009/agents/41126
+covers:
+- cover_type: archival
+  image_path: 41348-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bailey, Carolyn Sherwin
+    alias: Hill, Carolyn Sherwin Bailey
+    birthdate: 1875
+    deathdate: 1961
+    gutenberg_agent_id: '8801'
+    url: http://www.gutenberg.org/2009/agents/8801
+    wikipedia: http://en.wikipedia.org/wiki/Carolyn_Sherwin_Bailey
+description: ''
+gutenberg_issued: '2012-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Patriotism -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Colonists -- Juvenile fiction'
+- !lcsh 'Children -- United States -- Juvenile fiction'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775 -- Juvenile fiction'
+tableOfContents: The pink tulip -- Big Hawk's decoration -- The soap making of Remember
+  Biddle -- The beacon tree -- The jack-o'-lantern witch -- The iron stove -- A Boston
+  Tea Party -- The deacon's grasshopper -- Patience Arnold's sampler -- The Star Lady
+  -- The flag of their regiment -- The boy who had never seen an Indian -- Dick, the
+  youngest soldier -- Betsy's guest.
+title: Boys and Girls of Colonial Days
+url: http://www.gutenberg.org/ebooks/41348
